@@ -12,7 +12,7 @@ Developers have the ability to provide a pull request to add them selves.
 
 Last updated 05 September 2023
 
-## List of Informers
+## List of Dev's
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
