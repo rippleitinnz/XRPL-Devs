@@ -6,7 +6,8 @@ A place holder for devs who wish to be included in a list of people who work wit
 A compiled list of developers building out or integrating with the XRPL.
 
 **Note**: This list isn't exhaustive. If you're on this list and wish to be removed, please contact the list owner. Feel free to use and share this list to promote genuine information within the community.
-The list is not here to promote any project
+
+**The list does not promote any project.**
 
 Developers have the ability to provide a pull request to add them selves.
 
@@ -24,4 +25,4 @@ Last updated 05 September 2023
 
 
 
-This list provides no guarantee as to the abilities of any developer on this list nor is it advice on who you should consider to use for your project. Do your own reserach before engaging.
+**NOTE** This list provides no guarantee as to the abilities of any developer on this list, nor is it advice on who you should consider to use for your project. Always do your own research before engaging.
