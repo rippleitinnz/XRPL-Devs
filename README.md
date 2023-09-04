@@ -24,4 +24,4 @@ Last updated 05 September 2023
 
 
 
-To contribute to this list or raise concerns, please get in touch. Remember, the best way to be on this list is to provide accurate and updated information. Do your research and ensure relevance and accuracy before posting.
+This list provides no guarantee as to the abilities of any developer on this list nor is it advice on who you should consider to use for your project. Do your own reserach before engaging.
