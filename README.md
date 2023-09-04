@@ -22,6 +22,7 @@ Last updated 05 September 2023
 | Mayukha Vadari                                         | @msvadari             | [Profile](https://x.com/msvadari)                |
 | Neil Hartner                                           | @illneil              | [Profile](https://x.com/illneil)                 |
 | nixerFFM                                               | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
+| The Shillverse (sdoddler)                              | @theshillverse             | [Profile](https://x.com/theshillverse)                | 
 
 
 
