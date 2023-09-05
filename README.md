@@ -17,9 +17,10 @@ Last updated 05 September 2023
 
 | Name                                             | Twitter Handle        | X Profile                                        | Github Profile
 |--------------------------------------------------|-----------------------|--------------------------------------------------|-------------------------------------------
-| onledger.net                                     | @offledger            | [Profile](https://x.com/offledger)               | [Profile](https://github.com/rippleitinnz)
+| onledger.net                                     | @offledger            | [ X Profile](https://x.com/offledger)            | [Git](https://github.com/rippleitinnz)
 | Denis Angell ! 🪝                                 | @angell_denis         | [Profile](https://x.com/angell_denis)            |
 | WietseWind (🛠+🪝 Xumm @ XRPL Labs)               | @WietseWind           | [Profile](https://x.com/WietseWind)              | [Profile](https://github.com/wietsewind)
+| RichardAH 🪝                                      | @RichardXRPL           | [Profile](https://x.com/RichardXRPL)            | [Profile](https://github.com/RichardAH)
 | Mayukha Vadari                                   | @msvadari             | [Profile](https://x.com/msvadari)                | 
 | Neil Hartner                                     | @illneil              | [Profile](https://x.com/illneil)                 |
 | nixerFFM                                         | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
