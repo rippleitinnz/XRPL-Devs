@@ -9,7 +9,7 @@ A compiled list of developers building out or integrating with the XRPL.
 
 **The list does not promote any project.**
 
-Developers have the ability to provide a pull request to add them selves.
+Developers have the ability to make a pull request to add themselves.
 
 Last updated 05 September 2023
 
