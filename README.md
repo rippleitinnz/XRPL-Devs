@@ -26,6 +26,7 @@ Last updated 05 September 2023
 | Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)           |
 | Meister {X}🪝💎                                         | @xrpl_mworks          | [Profile](https://x.com/xrpl_mworks)            |
 | tequ                                                   | @\_tequ\_              | [Profile](https://x.com/_tequ_)                 |
+| XRPLWin                                                | @XRPLWin               | [Profile](https://x.com/XRPLWin)                |
 
 
 
