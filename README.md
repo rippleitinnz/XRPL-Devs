@@ -29,6 +29,7 @@ Last updated 05 September 2023
 | tequ                                             | @\_tequ\_             | [Profile](https://x.com/_tequ_)                  |
 | Viacheslav Bakshaev 🪝                            | @Bakshayev            | [Profile](https://x.com/Bakshayev)               | 
 | Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [Profile](https://x.com/fabian_sinani)           |
+| Calcs                                           | @0000CCS             | [Profile](https://x.com/0000CCS )                 | [Profile](https://github.com/calvincs)
 
 
 
