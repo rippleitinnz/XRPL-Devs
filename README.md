@@ -29,7 +29,7 @@ Last updated 05 September 2023
 | tequ                                             | @\_tequ\_             | [Profile](https://x.com/_tequ_)                  |
 | Viacheslav Bakshaev 🪝                            | @Bakshayev            | [Profile](https://x.com/Bakshayev)               | 
 | Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [Profile](https://x.com/fabian_sinani)           |
-
+| Glenn Schnieders                | @GlennSchnieders           | [Profile](https://x.com/GlennSchnieders)              | [Profile](https://github.com/virtumbe)
 
 
 **NOTE** This list provides no guarantee as to the abilities of any developer on this list, nor is it advice on who you should consider to use for your project. Always do your own research before engaging.
