@@ -28,8 +28,9 @@ Last updated 05 September 2023
 | Meister {X}🪝💎                                    | @xrpl_mworks          | [Profile](https://x.com/xrpl_mworks)             |
 | tequ                                             | @\_tequ\_             | [Profile](https://x.com/_tequ_)                  |
 | Viacheslav Bakshaev 🪝                            | @Bakshayev            | [Profile](https://x.com/Bakshayev)               | 
-| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [Profile](https://x.com/fabian_sinani)           |
-| Calcs                                           | @0000CCS             | [Profile](https://x.com/0000CCS )                 | [Profile](https://github.com/calvincs)
+| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [Profile](https://x.com/fabian_sinani)            |
+| Calcs                                            | @0000CCS              | [Profile](https://x.com/0000CCS )                | [Profile](https://github.com/calvincs)
+| XRPL Labs 🪝                                      | @XRPLLabs              | [Profile](https://x.com/XRPLLabs )              | [Profile](https://github.com/XRPL-Labs)
 
 
 
