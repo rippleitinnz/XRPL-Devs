@@ -15,7 +15,7 @@ Last updated 05 September 2023
 
 ## List of Dev's
 
-| Name                                             | Twitter Handle        | X Profile Link                                   | Github Profile Link
+| Name                                             | Twitter Handle        | X Profile                                        | Github Profile
 |--------------------------------------------------|-----------------------|--------------------------------------------------|-------------------------------------------
 | onledger.net                                     | @offledger            | [Profile](https://x.com/offledger)               | [Profile](https://github.com/rippleitinnz)
 | Denis Angell ! 🪝                                 | @angell_denis         | [Profile](https://x.com/angell_denis)            |
