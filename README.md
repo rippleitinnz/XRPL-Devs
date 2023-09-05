@@ -17,21 +17,21 @@ Last updated 05 September 2023
 
 | Name                                             | Twitter Handle        | X Profile                                        | Github Profile
 |--------------------------------------------------|-----------------------|--------------------------------------------------|-------------------------------------------
-| onledger.net                                     | @offledger            | [ X Profile](https://x.com/offledger)            | [Git](https://github.com/rippleitinnz)
-| Denis Angell ! 🪝                                 | @angell_denis         | [Profile](https://x.com/angell_denis)            |
-| WietseWind (🛠+🪝 Xumm @ XRPL Labs)               | @WietseWind           | [Profile](https://x.com/WietseWind)              | [Profile](https://github.com/wietsewind)
-| RichardAH 🪝                                      | @RichardXRPL           | [Profile](https://x.com/RichardXRPL)            | [Profile](https://github.com/RichardAH)
-| Mayukha Vadari                                   | @msvadari             | [Profile](https://x.com/msvadari)                | 
-| Neil Hartner                                     | @illneil              | [Profile](https://x.com/illneil)                 |
-| nixerFFM                                         | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
-| TheShillverse                                    | @theshillverse        | [Profile](https://x.com/theshillverse)           | 
-| Fomo {X}🪝                                        | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
-| Meister {X}🪝💎                                    | @xrpl_mworks          | [Profile](https://x.com/xrpl_mworks)             |
-| tequ                                             | @\_tequ\_             | [Profile](https://x.com/_tequ_)                  |
-| Viacheslav Bakshaev 🪝                            | @Bakshayev            | [Profile](https://x.com/Bakshayev)               | 
-| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [Profile](https://x.com/fabian_sinani)            |
-| Calcs                                            | @0000CCS              | [Profile](https://x.com/0000CCS )                | [Profile](https://github.com/calvincs)
-| XRPL Labs 🪝                                      | @XRPLLabs              | [Profile](https://x.com/XRPLLabs )              | [Profile](https://github.com/XRPL-Labs)
+| onledger.net                                     | @offledger            | [X Profile](https://x.com/offledger)             | [Git](https://github.com/rippleitinnz)
+| Denis Angell ! 🪝                                 | @angell_denis         | [X Profile](https://x.com/angell_denis)          |
+| WietseWind (🛠+🪝 Xumm @ XRPL Labs)               | @WietseWind           | [X Profile](https://x.com/WietseWind)            | [Git](https://github.com/wietsewind)
+| RichardAH 🪝                                      | @RichardXRPL          | [X Profile](https://x.com/RichardXRPL)           | [Git](https://github.com/RichardAH)
+| Mayukha Vadari                                   | @msvadari             | [X Profile](https://x.com/msvadari)              | 
+| Neil Hartner                                     | @illneil              | [X Profile](https://x.com/illneil)               |
+| nixerFFM                                         | @nixerFFM             | [X Profile](https://x.com/nixerFFM)              | 
+| TheShillverse                                    | @theshillverse        | [X Profile](https://x.com/theshillverse)         | 
+| Fomo {X}🪝                                        | @ShortTheFOMO         | [X Profile](https://x.com/ShortTheFOMO)          |
+| Meister {X}🪝💎                                    | @xrpl_mworks          | [X Profile](https://x.com/xrpl_mworks)           |
+| tequ                                             | @\_tequ\_             | [X Profile](https://x.com/_tequ_)                |
+| Viacheslav Bakshaev 🪝                            | @Bakshayev            | [X Profile](https://x.com/Bakshayev)             | 
+| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [X Profile](https://x.com/fabian_sinani)         |
+| Calcs                                            | @0000CCS             | [X Profile](https://x.com/0000CCS )               | [Git](https://github.com/calvincs)
+| XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )              | [Git](https://github.com/XRPL-Labs)
 
 
 
