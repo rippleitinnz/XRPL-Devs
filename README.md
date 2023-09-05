@@ -17,14 +17,15 @@ Last updated 05 September 2023
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
-| Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)            |
-| WietseWind (🛠+🪝 Xumm @ XRPL Labs)                     | @WietseWind           | [Profile](https://x.com/WietseWind)              |
-| Mayukha Vadari                                         | @msvadari             | [Profile](https://x.com/msvadari)                |
-| Neil Hartner                                           | @illneil              | [Profile](https://x.com/illneil)                 |
-| nixerFFM                                               | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
-| TheShillverse                                          | @theshillverse        | [Profile](https://x.com/theshillverse)           | 
-| Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
-| tequ                                                   | @\_tequ\_              | [Profile](https://x.com/_tequ_)                  |
+| Denis Angell ! 🪝                                       | @angell_denis         | [Profile](https://x.com/angell_denis)           |
+| WietseWind (🛠+🪝 Xumm @ XRPL Labs)                     | @WietseWind           | [Profile](https://x.com/WietseWind)             |
+| Mayukha Vadari                                          | @msvadari             | [Profile](https://x.com/msvadari)               |
+| Neil Hartner                                            | @illneil              | [Profile](https://x.com/illneil)                |
+| nixerFFM                                                | @nixerFFM             | [Profile](https://x.com/nixerFFM)               | 
+| TheShillverse                                           | @theshillverse        | [Profile](https://x.com/theshillverse)          | 
+| Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)           |
+| Meister {X}🪝💎                                         | @xrpl_mworks          | [Profile](https://x.com/xrpl_mworks)            |
+| tequ                                                   | @\_tequ\_              | [Profile](https://x.com/_tequ_)                 |
 
 
 
