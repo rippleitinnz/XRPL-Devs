@@ -23,7 +23,8 @@ Last updated 05 September 2023
 | Neil Hartner                                           | @illneil              | [Profile](https://x.com/illneil)                 |
 | nixerFFM                                               | @nixerFFM             | [Profile](https://x.com/nixerFFM)                | 
 | TheShillverse                                          | @theshillverse        | [Profile](https://x.com/theshillverse)           | 
-| Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO             |
+| Fomo {X}🪝                                              | @ShortTheFOMO         | [Profile](https://x.com/ShortTheFOMO)            |
+| tequ                                                   | @\_tequ\_              | [Profile](https://x.com/_tequ_)                  |
 
 
 
