@@ -14,9 +14,9 @@ Developers have the ability to make a pull request to add themselves.
 Last updated 05 September 2023
 
 ## List of Dev's
-| Name                                             | X Handle              | X                                              | Github                                  | Specialty
-|--------------------------------------------------|-----------------------|------------------------------------------------|-----------------------------------------|-----------------------------
-| onledger.net                                     | @offledger            | [X Profile](https://x.com/offledger)           | [Git](https://github.com/rippleitinnz)  | making lists, and enemies
+| Name                                             | X Handle              | X                                              | Github                                  
+|--------------------------------------------------|-----------------------|------------------------------------------------|---------------------------------------
+| onledger.net                                     | @offledger            | [X Profile](https://x.com/offledger)           | [Git](https://github.com/rippleitinnz) 
 | Denis Angell ! 🪝                                 | @angell_denis         | [X Profile](https://x.com/angell_denis)        |
 | WietseWind (🛠+🪝 Xumm @ XRPL Labs)               | @WietseWind           | [X Profile](https://x.com/WietseWind)          | [Git](https://github.com/wietsewind)
 | RichardAH 🪝                                      | @RichardXRPL          | [X Profile](https://x.com/RichardXRPL)         | [Git](https://github.com/RichardAH)
@@ -30,7 +30,7 @@ Last updated 05 September 2023
 | Viacheslav Bakshaev 🪝                            | @Bakshayev            | [X Profile](https://x.com/Bakshayev)           | 
 | Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [X Profile](https://x.com/fabian_sinani)       |
 | Calcs                                            | @0000CCS             | [X Profile](https://x.com/0000CCS )             | [Git](https://github.com/calvincs)
-| XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )            | [Git](https://github.com/XRPL-Labs)     | XRP Ledger Software Development
+| XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )            | [Git](https://github.com/XRPL-Labs) 
 
 
 
