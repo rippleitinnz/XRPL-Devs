@@ -24,7 +24,7 @@ Last updated 05 September 2023
 | Mayukha Vadari                                   | @msvadari             | [X Profile](https://x.com/msvadari)              | 
 | Neil Hartner                                     | @illneil              | [X Profile](https://x.com/illneil)               |
 | nixerFFM                                         | @nixerFFM             | [X Profile](https://x.com/nixerFFM)              | 
-| TheShillverse                                    | @theshillverse        | [X Profile](https://x.com/theshillverse)         | 
+| TheShillverse                                    | @theshillverse        | [X Profile](https://x.com/theshillverse)         | [Git](https://github.com/sdoddler)
 | Fomo {X}🪝                                        | @ShortTheFOMO         | [X Profile](https://x.com/ShortTheFOMO)          |
 | Meister {X}🪝💎                                    | @xrpl_mworks          | [X Profile](https://x.com/xrpl_mworks)           |
 | tequ                                             | @\_tequ\_             | [X Profile](https://x.com/_tequ_)                |
