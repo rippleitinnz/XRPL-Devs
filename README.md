@@ -28,10 +28,10 @@ Last updated 05 September 2023
 | Meister {X}🪝💎                                    | @xrpl_mworks          | [X Profile](https://x.com/xrpl_mworks)         |
 | tequ                                             | @\_tequ\_             | [X Profile](https://x.com/_tequ_)              |
 | Viacheslav Bakshaev 🪝                            | @Bakshayev            | [X Profile](https://x.com/Bakshayev)           | 
-| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [X Profile](https://x.com/fabian_sinani)       |
+| Fabian Sinani 🔼 {X}                            | @fabian_sinani        | [X Profile](https://x.com/fabian_sinani)        |
 | Calcs                                            | @0000CCS             | [X Profile](https://x.com/0000CCS )             | [Git](https://github.com/calvincs)
 | XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )            | [Git](https://github.com/XRPL-Labs) 
-| XRPLWin                                          | @XRPLWin              | [X Profile](https://x.com/XRPLWin)              | [Git](https://github.com/XRPLWin) 
+| XRPLWin 🛠️🪝                                     | @XRPLWin              | [X Profile](https://x.com/XRPLWin)              | [Git](https://github.com/XRPLWin) 
 
 
 
