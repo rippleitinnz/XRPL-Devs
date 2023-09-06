@@ -1,9 +1,9 @@
-# XRPL-Devs on X and/or Github
+# XRPL related Devs on X and/or Github
 A place holder for devs who wish to be included in a list of people who work with XRPL technology. It is a reference point for community to look for devs and to follow for up-to-date information on XRPL projects.
 
 ## Purpose
 
-A compiled list of developers building out or integrating with the XRPL.
+A compiled list of developers building out or integrating with the XRPL and its forks.
 
 **Note**: This list isn't exhaustive. If you're on this list and wish to be removed, please contact the list owner. Feel free to use and share this list to promote genuine information within the community.
 
@@ -13,7 +13,7 @@ Developers have the ability to make a pull request to add themselves.
 
 Last updated 05 September 2023
 
-## List of Dev's
+## XRPL Dev's
 | Name                                             | X Handle              | X                                              | Github                                  
 |--------------------------------------------------|-----------------------|------------------------------------------------|---------------------------------------
 | onledger.net                                     | @offledger            | [X Profile](https://x.com/offledger)           | [Git](https://github.com/rippleitinnz) 
