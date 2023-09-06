@@ -7,7 +7,7 @@ A compiled list of developers building out or integrating with the XRPL.
 
 **Note**: This list isn't exhaustive. If you're on this list and wish to be removed, please contact the list owner. Feel free to use and share this list to promote genuine information within the community.
 
-**The list does not promote any project.**
+**The list does not promote or endorse any project.**
 
 Developers have the ability to make a pull request to add themselves.
 
