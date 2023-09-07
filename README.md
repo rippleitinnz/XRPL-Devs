@@ -13,6 +13,7 @@ Developers have the ability to make a pull request to add themselves.
 
 Last updated 05 September 2023
 
+<<<<<<< HEAD
 ## XRPL Dev's
 | Name                                             | X Handle              | X                                              | Github                                  
 |--------------------------------------------------|-----------------------|------------------------------------------------|---------------------------------------
@@ -33,7 +34,6 @@ Last updated 05 September 2023
 | XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )            | [Git](https://github.com/XRPL-Labs) 
 | XRPLWin 🛠️🪝                                     | @XRPLWin              | [X Profile](https://x.com/XRPLWin)              | [Git](https://github.com/XRPLWin) 
 | Glenn Schnieders                                     | @GlennSchnieders              | [X Profile](https://x.com/GlennSchnieders)              | [Git](https://github.com/virtumbe) 
-
 
 
 **NOTE** This list provides no guarantee as to the abilities of any developer on this list, nor is it advice on who you should consider to use for your project. Always do your own research before engaging.
