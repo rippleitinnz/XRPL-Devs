@@ -32,6 +32,7 @@ Last updated 05 September 2023
 | Calcs                                            | @0000CCS             | [X Profile](https://x.com/0000CCS )             | [Git](https://github.com/calvincs)
 | XRPL Labs 🪝                                      | @XRPLLabs            | [X Profile](https://x.com/XRPLLabs )            | [Git](https://github.com/XRPL-Labs) 
 | XRPLWin 🛠️🪝                                     | @XRPLWin              | [X Profile](https://x.com/XRPLWin)              | [Git](https://github.com/XRPLWin) 
+| Glenn Schnieders                                     | @GlennSchnieders              | [X Profile](https://x.com/GlennSchnieders)              | [Git](https://github.com/virtumbe) 
 
 
 
